@@ -1,0 +1,25 @@
+* 1be0b0c fix: restore independent features
+*   cf51e4a merge: add third feature
+|\  
+| * c2a35cb feat: add third feature
+|/  
+* 9babb7b fix: add corrected feature
+* 557fd05 feat: add second feature
+* 0253464 feat: add first feature
+| * 1fd001b chore(release): bump version to 1.0.0
+|/  
+| * 2531a4e feat(db): add database configuration
+|/  
+* f35862c fix(db): change default database to MySQL
+*   a911b03 merge: resolve conflict between payment and notifications
+|\  
+| * 92dbf92 feat(notifications): add 2FA and notification system
+* |   b5fec06 Merge branch 'feature/payment'
+|\ \  
+| |/  
+|/|   
+| * 7140543 feat(payment): add payment and history features
+|/  
+* de60b01 feat: add features.txt with core features
+* 0b4e5d8 chore: add gitignore
+* 9c9b8c2 feat: add README.md
