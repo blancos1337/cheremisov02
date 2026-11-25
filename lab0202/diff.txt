@@ -1,0 +1,8 @@
+diff --git a/lab0202/independent.txt b/lab0202/independent.txt
+index c9dcf1e..ead0e5d 100644
+--- a/lab0202/independent.txt
++++ b/lab0202/independent.txt
+@@ -1 +1,3 @@
+ первая фича
++вторая фича
++третья фича
