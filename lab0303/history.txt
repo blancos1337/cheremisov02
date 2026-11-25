@@ -1,0 +1,50 @@
+* 35a3058 docs: add lab0303 project files
+*   ec4e76a Merge pull request #1 from blancos1337/lab0202-work
+|\  
+| * 3fc1873 Delete README.md
+| * 341bdac docs: add five screenshots to lab report
+| * 5e3efcb docs: add lab screenshots
+| * f7ab497 docs: add lab report
+| * cb05d03 docs: add lab materials and git history
+| * 1be0b0c fix: restore independent features
+| *   cf51e4a merge: add third feature
+| |\  
+| | * c2a35cb feat: add third feature
+| |/  
+| * 9babb7b fix: add corrected feature
+| * 557fd05 feat: add second feature
+| * 0253464 feat: add first feature
+* | 16950bf Delete lab0202 directory
+* | aada659 Create README.md
+* | 3a7027b Delete lab0102/screenshots/.gitkeep
+* | cf28e54 Add files via upload
+* | 07c1494 Create .gitkeep
+* | 637923a Remove email from README.md
+* | 4e9719c Add files via upload
+* | b9efed8 Delete lab0102/.gitkeep
+* | 87dfa3a Add files via upload
+* | 26a30f7 Add .gitkeep to lab0102 directory
+* | ec742cc Delete lab0102
+* | 5d67f9b Create lab0102
+* | 3167aed Delete report.md
+* | f20e3f6 Delete README.md
+* | b73f8a0 Update report.md
+* | 450554d Add files via upload
+| | * 1fd001b chore(release): bump version to 1.0.0
+| |/  
+| | * 2531a4e feat(db): add database configuration
+| |/  
+| * f35862c fix(db): change default database to MySQL
+| *   a911b03 merge: resolve conflict between payment and notifications
+| |\  
+| | * 92dbf92 feat(notifications): add 2FA and notification system
+| * |   b5fec06 Merge branch 'feature/payment'
+| |\ \  
+| | |/  
+| |/|   
+| | * 7140543 feat(payment): add payment and history features
+| |/  
+| * de60b01 feat: add features.txt with core features
+|/  
+* 0b4e5d8 chore: add gitignore
+* 9c9b8c2 feat: add README.md
